@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    height: 100vh;
+    background-color: #1a1d28;
+    display: grid;
+    place-items: center;
+}
+
+main h1 {
+    font-size: 50px;
+    color: #fff;
+    letter-spacing: 0.4px;
+}
